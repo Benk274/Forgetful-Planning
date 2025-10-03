@@ -7,15 +7,15 @@ This Project should solve exactly that and remind me of those important things.
 
 # Plan to success 
 ## 1: Basics
-Learn basics of Flutter
-implement some sort of storage for data like a sql or Hive model
-first notification
+ - Learn basics of Flutter
+ - implement some sort of storage for data like a sql or Hive model
+ - first notification
 
 ## 2: Get on Track
-Use learned materials to create the first step of the App
-use some kind of page setting to have a template to create pages
-Add the notifications and simple algorithms that make those reminders depending on template
-Dont forget the Log page and Debug page for errors and scheduled notifications.
+ - Use learned materials to create the first step of the App
+ - use some kind of page setting to have a template to create pages
+ - Add the notifications and simple algorithms that make those reminders depending on template
+ - Dont forget the Log page and Debug page for errors and scheduled notifications.
 
 ## 3: Templates on mass
 Create more templates than a test Template. this time add usefull implementations
